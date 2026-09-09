@@ -22,4 +22,6 @@
 	"draw_minimap_border": true,
 	"always_show_minimap_viewport": true,
 	"highlight_line": true,
+	"show_line_endings": true,
+	"default_line_ending": "unix",
 }
