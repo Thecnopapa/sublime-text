@@ -24,4 +24,6 @@
 	"highlight_line": true,
 	"show_line_endings": true,
 	"default_line_ending": "unix",
+	"trim_trailing_white_space_on_save": "not_on_caret",
+	"auto_complete_commit_on_tab": false,
 }
